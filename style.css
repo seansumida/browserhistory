@@ -3,6 +3,7 @@ body {
   color: darkblue;
   background: ivory;
   margin: 10px 50px 10px 50px;
+  margin-top: 50px;
 }
 h1, h2 {
   font-family: "Oswald", sans-serif;
